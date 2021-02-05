@@ -15,6 +15,7 @@ class Model:
   def f(self,x):
     output = self.activation(self.w[0]*x[0] + self.w[1]*x[1] +self.b)
     return output
+  
   def activation(self,x):
       return 1/(1+m.exp(-x))
 
