@@ -1,0 +1,5 @@
+Companies: Amazon, Apple, Facebook, Google, Netflix
+Annual and Quarterly cash flow in csv format
+Earnings in JSON format
+future task: extract yearly and quarterly earnings from the JSON files
+	     convert such data to csv/json
